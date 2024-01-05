@@ -1,0 +1,14 @@
+.btn-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-bottom: 10px;
+}
+.btn {
+  color: #fff;
+  background: #6370f0;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 6px;
+  font-size: 15px;
+}

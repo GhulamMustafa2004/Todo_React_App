@@ -1,7 +1,17 @@
+.container {
+  max-width: 700px;
+  margin: auto;
+  background: #ecedf6;
+  padding: 20px 10px 0 10px;
+  border-radius: 8px;
+}
+
 .btn-section {
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  max-width: 630px;
+  margin: auto;
+  justify-content: space-between;
   margin-bottom: 10px;
 }
 .btn {

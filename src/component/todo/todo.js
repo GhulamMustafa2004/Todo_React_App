@@ -1,4 +1,4 @@
-import "./Todo.css";
+import "./todo.css";
 
 const Todo = ({ todos, deleteTodo, editTodo }) => {
   return todos?.map((val, index) => {

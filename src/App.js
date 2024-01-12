@@ -1,7 +1,7 @@
 import { useState } from "react";
-import Input from "./Components/Input/Input";
-import Button from "./Components/Button/Button";
-import Todo from "./Components/Todo/Todo";
+import Input from "./component/input/input";
+import Button from "./component/button/button";
+import Todo from "./component/todo/todo";
 
 const App = () => {
   const [todos, setTodos] = useState([]);
